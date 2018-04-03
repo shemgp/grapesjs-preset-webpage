@@ -1,0 +1,9 @@
+[submodule "grapesjs-plugin-forms"]
+	path = grapesjs-plugin-forms
+	url = https://github.com/shemgp/grapesjs-plugin-forms.git
+[submodule "grapesjs-blocks-bootstrap4"]
+	path = grapesjs-blocks-bootstrap4
+	url = https://github.com/shemgp/grapesjs-blocks-bootstrap4.git
+[submodule "grapesjs"]
+	path = grapesjs
+	url = https://github.com/shemgp/grapesjs.git
